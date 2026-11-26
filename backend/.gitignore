@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+artifacts/*
+!artifacts/.gitkeep
+data/*
+!data/nsl_kdd/.gitkeep
+!data/unsw_nb15/.gitkeep
